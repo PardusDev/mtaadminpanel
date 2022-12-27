@@ -1,2 +1,2 @@
 # mtaadminpanel
-Administrator Control Panel for MTA:RP
+Basic Administrator Control Panel for MTA:RP
